@@ -5,4 +5,4 @@ This repository is dedicated to the rebuttal stage of MICCAI 2023 of the paper "
 Medical Image Segmentation". 
 
 In the final version of the paper we will change Figure 2 to the following boxplot image: 
-![alt text](docs/fig2.png)
+![](/fig2.png)
